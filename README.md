@@ -5,12 +5,12 @@ This repository contains the Expresso  mobile apps built with Xamarin Forms.
 ![xrw](https://user-images.githubusercontent.com/38080065/48301590-27850080-e512-11e8-86c9-abda9d7a5007.PNG)
 
 ### Supported Platforms: iOS and Android
-The Colosseum app is available for two platforms:
+The Expresso app is available for two platforms:
 
 * iOS 
 * Android
 
-Colosseum features **100% code share** across all platforms(iOS , Android).
+Expresso features **100% code share** across all platforms(iOS , Android).
 
 
 ## Screens
