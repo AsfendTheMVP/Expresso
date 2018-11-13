@@ -4,6 +4,11 @@ This repository contains the Expresso  mobile apps built with Xamarin Forms.
 
 ![xrw](https://user-images.githubusercontent.com/38080065/48301590-27850080-e512-11e8-86c9-abda9d7a5007.PNG)
 
+## GET THE FULL COURSE
+**Note:** If you want to build this application with me then get enrolled in this course today and enjoy the 95% off.
+
+[In order to get the course click here](https://www.udemy.com/build-real-world-app-with-xamarin-forms/?couponCode=G_REALWORLD)
+
 ### Supported Platforms: iOS and Android
 The Expresso app is available for two platforms:
 
